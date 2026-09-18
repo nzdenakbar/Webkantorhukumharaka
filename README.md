@@ -9,13 +9,3 @@ Sistem informasi website Kantor Hukum Haraka dengan fitur booking konsultasi, fo
 - Font Awesome
 - Google Fonts
 
-## Fitur
-- Website profil Haraka dengan UI/UX dark-gold premium
-- Booking konsultasi
-- Validasi jadwal agar tidak bentrok
-- Kode booking otomatis
-- Form konsultasi
-- Dashboard admin
-- Login admin dengan `password_hash()` / `password_verify()`
-- Pengelolaan status booking
-
